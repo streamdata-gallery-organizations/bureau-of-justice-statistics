@@ -5,7 +5,7 @@ description: This is a repository of bureau of justice statistics APIs, self-con
   surrounding operations.
 image: http://template.streamdata.gallery/assets/bureau-of-justice-statistics.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://bureau-of-justice-statistics.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
