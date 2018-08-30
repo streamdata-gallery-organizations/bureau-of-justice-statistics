@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Bureau of Justice Statistics",
+	"description": "This is a repository of bureau of justice statistics APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/bureau-of-justice-statistics.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://bureau-of-justice-statistics.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Bureau of Justice Statistics",
+			"x-api-slug": "bureau-of-justice-statistics",
+			"description": "The United States Bureau of Justice Statistics (BJS) is a federal government agency belonging to the U.S. Department of Justice and a principal agency of the U.S. Federal Statistical System. Established on December 27, 1979, the bureau collects, analyzes and publishes data relating to crime in the United States. The agency publishes data regarding statistics gathered from the roughly fifty-thousand agencies that comprise the U.S. justice system on its Web site.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/US-DeptOfJustice-Seal.svg.png",
+			"humanURL": "http://bjs.gov",
+			"baseURL": "http://www.bjs.gov//bjs/ncvs/",
+			"tags": "Bureau of Justice Statistics",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/bureau-of-justice-statistics/master/_listings/bureau-of-justice-statistics/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Bureau of Justice Statistics",
+	"include": [
+		{
+			"name": "Bureau of Justice Statistics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/bureau-of-justice-statistics/master/_listings/bureau-of-justice-statistics/apis.yaml"
+		}
+	]
+}
